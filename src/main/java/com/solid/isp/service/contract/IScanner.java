@@ -1,6 +1,6 @@
-package com.solid.service.contract;
+package com.solid.isp.service.contract;
 
-import com.solid.model.Document;
+import com.solid.isp.model.Document;
 
 public interface IScanner {
 

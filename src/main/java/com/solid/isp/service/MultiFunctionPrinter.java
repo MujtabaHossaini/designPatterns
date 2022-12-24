@@ -1,7 +1,7 @@
-package com.solid.service;
+package com.solid.isp.service;
 
-import com.solid.model.Document;
-import com.solid.service.contract.Machine;
+import com.solid.isp.model.Document;
+import com.solid.isp.service.contract.Machine;
 
 public class MultiFunctionPrinter implements Machine {
     @Override

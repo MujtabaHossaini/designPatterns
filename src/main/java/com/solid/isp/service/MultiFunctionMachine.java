@@ -1,9 +1,9 @@
-package com.solid.service;
+package com.solid.isp.service;
 
-import com.solid.model.Document;
-import com.solid.service.contract.IScanner;
-import com.solid.service.contract.MultiFunctionDevice;
-import com.solid.service.contract.Printer;
+import com.solid.isp.model.Document;
+import com.solid.isp.service.contract.IScanner;
+import com.solid.isp.service.contract.MultiFunctionDevice;
+import com.solid.isp.service.contract.Printer;
 import lombok.AllArgsConstructor;
 
 @AllArgsConstructor
