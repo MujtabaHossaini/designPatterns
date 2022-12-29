@@ -1,6 +1,6 @@
-package com.creational.recursiveBuilder.service;
+package com.creational.builder.recursiveBuilder.service;
 
-import com.creational.recursiveBuilder.model.Person;
+import com.creational.builder.recursiveBuilder.model.Person;
 
 public class PersonBuilder<SELF extends PersonBuilder<SELF>> {
 

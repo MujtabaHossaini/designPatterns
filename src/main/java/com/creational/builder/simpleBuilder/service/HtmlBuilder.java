@@ -1,6 +1,6 @@
-package com.creational.builder.service;
+package com.creational.builder.simpleBuilder.service;
 
-import com.creational.builder.model.HtmlElement;
+import com.creational.builder.simpleBuilder.model.HtmlElement;
 
 public class HtmlBuilder {
 

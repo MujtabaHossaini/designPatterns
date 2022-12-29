@@ -1,7 +1,7 @@
-package com.creational.facetedBuilder;
+package com.creational.builder.facetedBuilder;
 
-import com.creational.facetedBuilder.model.Person;
-import com.creational.facetedBuilder.service.PersonBuilder;
+import com.creational.builder.facetedBuilder.model.Person;
+import com.creational.builder.facetedBuilder.service.PersonBuilder;
 
 public class Demo {
 

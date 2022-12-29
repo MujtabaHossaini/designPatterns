@@ -1,4 +1,4 @@
-package com.creational.builder.model;
+package com.creational.builder.simpleBuilder.model;
 
 import lombok.NoArgsConstructor;
 

@@ -1,4 +1,4 @@
-package com.creational.facetedBuilder.model;
+package com.creational.builder.facetedBuilder.model;
 
 import lombok.Data;
 

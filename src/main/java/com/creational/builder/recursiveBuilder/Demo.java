@@ -1,8 +1,8 @@
-package com.creational.recursiveBuilder;
+package com.creational.builder.recursiveBuilder;
 
-import com.creational.recursiveBuilder.model.Person;
-import com.creational.recursiveBuilder.service.EmployeeBuilder;
-import com.creational.recursiveBuilder.service.PersonBuilder;
+import com.creational.builder.recursiveBuilder.model.Person;
+import com.creational.builder.recursiveBuilder.service.EmployeeBuilder;
+import com.creational.builder.recursiveBuilder.service.PersonBuilder;
 
 public class Demo {
 

@@ -1,4 +1,4 @@
-package com.creational.recursiveBuilder.service;
+package com.creational.builder.recursiveBuilder.service;
 
 public class EmployeeBuilder extends PersonBuilder<EmployeeBuilder> {
 

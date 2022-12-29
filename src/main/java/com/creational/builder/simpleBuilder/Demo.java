@@ -1,6 +1,6 @@
-package com.creational.builder;
+package com.creational.builder.simpleBuilder;
 
-import com.creational.builder.service.HtmlBuilder;
+import com.creational.builder.simpleBuilder.service.HtmlBuilder;
 
 public class Demo {
 

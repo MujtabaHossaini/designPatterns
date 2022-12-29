@@ -1,6 +1,6 @@
-package com.creational.facetedBuilder.service;
+package com.creational.builder.facetedBuilder.service;
 
-import com.creational.facetedBuilder.model.Person;
+import com.creational.builder.facetedBuilder.model.Person;
 
 public class PersonAddressBuilder extends PersonBuilder{
 

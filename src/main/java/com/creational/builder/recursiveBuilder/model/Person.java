@@ -1,4 +1,4 @@
-package com.creational.recursiveBuilder.model;
+package com.creational.builder.recursiveBuilder.model;
 
 import lombok.Data;
 
