@@ -1,7 +1,7 @@
-package com.solid.dip.notViolating.service;
+package com.solid.DIP.notViolating.service;
 
-import com.solid.dip.model.Person;
-import com.solid.dip.notViolating.service.contract.RelationshipBrowser;
+import com.solid.DIP.model.Person;
+import com.solid.DIP.notViolating.service.contract.RelationshipBrowser;
 
 import java.util.List;
 

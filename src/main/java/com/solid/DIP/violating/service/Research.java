@@ -1,7 +1,7 @@
-package com.solid.dip.violating.service;
+package com.solid.DIP.violating.service;
 
-import com.solid.dip.enums.Relationship;
-import com.solid.dip.model.Person;
+import com.solid.DIP.enums.Relationship;
+import com.solid.DIP.model.Person;
 import org.javatuples.Triplet;
 
 import java.util.List;

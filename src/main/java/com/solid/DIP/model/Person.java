@@ -1,4 +1,4 @@
-package com.solid.dip.model;
+package com.solid.DIP.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

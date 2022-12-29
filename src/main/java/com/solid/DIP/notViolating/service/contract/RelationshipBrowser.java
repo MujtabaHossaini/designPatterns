@@ -1,6 +1,6 @@
-package com.solid.dip.notViolating.service.contract;
+package com.solid.DIP.notViolating.service.contract;
 
-import com.solid.dip.model.Person;
+import com.solid.DIP.model.Person;
 
 import java.util.List;
 

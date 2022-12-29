@@ -1,4 +1,4 @@
-package com.solid.dip.enums;
+package com.solid.DIP.enums;
 
 public enum Relationship {
 

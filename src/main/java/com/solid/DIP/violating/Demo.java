@@ -1,9 +1,8 @@
-package com.solid.dip.notViolating;
+package com.solid.DIP.violating;
 
-import com.solid.dip.model.Person;
-import com.solid.dip.notViolating.service.Relationships;
-import com.solid.dip.notViolating.service.Research;
-
+import com.solid.DIP.model.Person;
+import com.solid.DIP.violating.service.Relationships;
+import com.solid.DIP.violating.service.Research;
 
 public class Demo {
 
@@ -22,7 +21,6 @@ public class Demo {
 
 
     }
-
 
 
 }
