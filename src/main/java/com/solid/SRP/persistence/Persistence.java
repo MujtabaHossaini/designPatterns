@@ -1,6 +1,6 @@
-package com.solid.srp;
+package com.solid.SRP.persistence;
 
-import com.solid.model.Journal;
+import com.solid.SRP.model.Journal;
 
 import java.io.File;
 import java.io.FileNotFoundException;

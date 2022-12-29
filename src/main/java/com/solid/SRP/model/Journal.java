@@ -1,4 +1,4 @@
-package com.solid.model;
+package com.solid.SRP.model;
 
 import java.util.ArrayList;
 import java.util.List;

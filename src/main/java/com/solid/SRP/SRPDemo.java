@@ -1,6 +1,7 @@
-package com.solid.srp;
+package com.solid.SRP;
 
-import com.solid.model.Journal;
+import com.solid.SRP.model.Journal;
+import com.solid.SRP.persistence.Persistence;
 
 import java.io.IOException;
 
