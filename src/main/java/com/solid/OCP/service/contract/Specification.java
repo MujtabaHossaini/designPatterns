@@ -1,4 +1,4 @@
-package com.solid.service.contract;
+package com.solid.OCP.service.contract;
 
 public interface Specification<T> {
 

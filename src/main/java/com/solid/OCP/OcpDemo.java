@@ -1,9 +1,9 @@
-package com.solid;
+package com.solid.OCP;
 
-import com.solid.enums.Color;
-import com.solid.enums.Size;
-import com.solid.model.Product;
-import com.solid.service.*;
+import com.solid.OCP.enums.Color;
+import com.solid.OCP.enums.Size;
+import com.solid.OCP.model.Product;
+import com.solid.OCP.service.*;
 
 import java.util.List;
 

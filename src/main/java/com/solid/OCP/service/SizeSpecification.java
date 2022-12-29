@@ -1,8 +1,8 @@
-package com.solid.service;
+package com.solid.OCP.service;
 
-import com.solid.enums.Size;
-import com.solid.model.Product;
-import com.solid.service.contract.Specification;
+import com.solid.OCP.enums.Size;
+import com.solid.OCP.model.Product;
+import com.solid.OCP.service.contract.Specification;
 import lombok.AllArgsConstructor;
 
 @AllArgsConstructor

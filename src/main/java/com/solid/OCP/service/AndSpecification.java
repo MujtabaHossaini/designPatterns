@@ -1,6 +1,6 @@
-package com.solid.service;
+package com.solid.OCP.service;
 
-import com.solid.service.contract.Specification;
+import com.solid.OCP.service.contract.Specification;
 import lombok.AllArgsConstructor;
 
 @AllArgsConstructor

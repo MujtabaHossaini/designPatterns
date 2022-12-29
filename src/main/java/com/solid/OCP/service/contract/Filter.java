@@ -1,4 +1,4 @@
-package com.solid.service.contract;
+package com.solid.OCP.service.contract;
 
 import java.util.List;
 import java.util.stream.Stream;

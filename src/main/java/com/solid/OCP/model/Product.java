@@ -1,7 +1,7 @@
-package com.solid.model;
+package com.solid.OCP.model;
 
-import com.solid.enums.Color;
-import com.solid.enums.Size;
+import com.solid.OCP.enums.Color;
+import com.solid.OCP.enums.Size;
 import lombok.Getter;
 
 @Getter
