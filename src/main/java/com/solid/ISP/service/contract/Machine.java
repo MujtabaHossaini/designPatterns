@@ -1,6 +1,6 @@
-package com.solid.isp.service.contract;
+package com.solid.ISP.service.contract;
 
-import com.solid.isp.model.Document;
+import com.solid.ISP.model.Document;
 
 public interface Machine {
 

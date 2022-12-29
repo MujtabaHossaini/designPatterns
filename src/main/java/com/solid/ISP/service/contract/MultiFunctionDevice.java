@@ -1,4 +1,4 @@
-package com.solid.isp.service.contract;
+package com.solid.ISP.service.contract;
 
 public interface MultiFunctionDevice extends Printer, IScanner {
 

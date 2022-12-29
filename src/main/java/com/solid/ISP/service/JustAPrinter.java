@@ -1,7 +1,7 @@
-package com.solid.isp.service;
+package com.solid.ISP.service;
 
-import com.solid.isp.model.Document;
-import com.solid.isp.service.contract.Printer;
+import com.solid.ISP.model.Document;
+import com.solid.ISP.service.contract.Printer;
 
 public class JustAPrinter implements Printer {
     @Override
