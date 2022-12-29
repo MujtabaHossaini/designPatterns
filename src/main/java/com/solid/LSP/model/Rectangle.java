@@ -1,4 +1,4 @@
-package com.solid.model;
+package com.solid.LSP.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

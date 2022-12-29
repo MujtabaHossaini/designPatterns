@@ -1,6 +1,6 @@
-package com.solid.factory;
+package com.solid.LSP.factory;
 
-import com.solid.model.Rectangle;
+import com.solid.LSP.model.Rectangle;
 
 public class RectangleFactory {
 

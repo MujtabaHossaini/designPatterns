@@ -1,8 +1,8 @@
-package com.solid;
+package com.solid.LSP;
 
-import com.solid.factory.RectangleFactory;
-import com.solid.model.Rectangle;
-import com.solid.model.Square;
+import com.solid.LSP.factory.RectangleFactory;
+import com.solid.LSP.model.Rectangle;
+import com.solid.LSP.model.Square;
 
 public class Demo {
 
