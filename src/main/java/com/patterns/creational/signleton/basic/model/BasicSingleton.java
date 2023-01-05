@@ -5,7 +5,7 @@ import java.io.Serializable;
 public class BasicSingleton implements Serializable {
 
     private static final BasicSingleton INSTANCE
-            = new BasicSingleton();
+            = new BasicSingleton(); // notice of final
 
     private int value = 0;
 
