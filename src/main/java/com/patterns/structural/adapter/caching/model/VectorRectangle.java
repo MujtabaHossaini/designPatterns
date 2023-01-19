@@ -1,6 +1,6 @@
-package com.patterns.structural.adapter.model;
+package com.patterns.structural.adapter.caching.model;
 
-public class VectorRectangle extends VectorObject{
+public class VectorRectangle extends VectorObject {
 
     public VectorRectangle(int x, int y, int width, int height)
     {

@@ -1,10 +1,10 @@
-package com.patterns.structural.adapter;
+package com.patterns.structural.adapter.noCaching;
 
-import com.patterns.structural.adapter.model.Line;
-import com.patterns.structural.adapter.model.Point;
-import com.patterns.structural.adapter.model.VectorObject;
-import com.patterns.structural.adapter.model.VectorRectangle;
-import com.patterns.structural.adapter.service.LineToPointAdapter;
+import com.patterns.structural.adapter.noCaching.model.Line;
+import com.patterns.structural.adapter.noCaching.model.Point;
+import com.patterns.structural.adapter.noCaching.model.VectorObject;
+import com.patterns.structural.adapter.noCaching.model.VectorRectangle;
+import com.patterns.structural.adapter.noCaching.service.LineToPointAdapter;
 
 import java.util.ArrayList;
 import java.util.Arrays;

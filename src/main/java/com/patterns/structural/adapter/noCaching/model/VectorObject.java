@@ -1,4 +1,4 @@
-package com.patterns.structural.adapter.model;
+package com.patterns.structural.adapter.noCaching.model;
 
 import java.util.ArrayList;
 

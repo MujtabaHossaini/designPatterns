@@ -1,7 +1,7 @@
-package com.patterns.structural.adapter.service;
+package com.patterns.structural.adapter.noCaching.service;
 
-import com.patterns.structural.adapter.model.Line;
-import com.patterns.structural.adapter.model.Point;
+import com.patterns.structural.adapter.noCaching.model.Line;
+import com.patterns.structural.adapter.noCaching.model.Point;
 
 import java.util.ArrayList;
 
