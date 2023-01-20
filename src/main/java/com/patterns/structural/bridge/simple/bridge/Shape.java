@@ -1,6 +1,6 @@
-package com.patterns.structoral.bridge.simple.bridge;
+package com.patterns.structural.bridge.simple.bridge;
 
-import com.patterns.structoral.bridge.simple.contract.Renderer;
+import com.patterns.structural.bridge.simple.contract.Renderer;
 import lombok.AllArgsConstructor;
 
 @AllArgsConstructor

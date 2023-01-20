@@ -1,8 +1,8 @@
-package com.patterns.structoral.bridge.guice.module;
+package com.patterns.structural.bridge.guice.module;
 
 import com.google.inject.AbstractModule;
-import com.patterns.structoral.bridge.guice.contract.Renderer;
-import com.patterns.structoral.bridge.guice.service.VectorRenderer;
+import com.patterns.structural.bridge.guice.contract.Renderer;
+import com.patterns.structural.bridge.guice.service.VectorRenderer;
 
 public class ShapeModule extends AbstractModule {
     @Override

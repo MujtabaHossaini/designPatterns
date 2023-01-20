@@ -1,4 +1,4 @@
-package com.patterns.structoral.bridge.simple.contract;
+package com.patterns.structural.bridge.simple.contract;
 
 public interface Renderer {
 

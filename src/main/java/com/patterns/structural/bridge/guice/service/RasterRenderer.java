@@ -1,6 +1,6 @@
-package com.patterns.structoral.bridge.guice.service;
+package com.patterns.structural.bridge.guice.service;
 
-import com.patterns.structoral.bridge.guice.contract.Renderer;
+import com.patterns.structural.bridge.guice.contract.Renderer;
 
 public class RasterRenderer implements Renderer {
     @Override

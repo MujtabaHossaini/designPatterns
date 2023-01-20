@@ -1,4 +1,4 @@
-package com.patterns.structoral.bridge.guice.contract;
+package com.patterns.structural.bridge.guice.contract;
 
 public interface Renderer {
 

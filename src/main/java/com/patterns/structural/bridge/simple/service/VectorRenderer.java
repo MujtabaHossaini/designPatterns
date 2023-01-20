@@ -1,6 +1,6 @@
-package com.patterns.structoral.bridge.simple.service;
+package com.patterns.structural.bridge.simple.service;
 
-import com.patterns.structoral.bridge.simple.contract.Renderer;
+import com.patterns.structural.bridge.simple.contract.Renderer;
 
 public class VectorRenderer implements Renderer {
     @Override

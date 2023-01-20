@@ -1,8 +1,7 @@
-package com.patterns.structoral.bridge.simple.bridge;
+package com.patterns.structural.bridge.simple.bridge;
 
 
-import com.patterns.structoral.bridge.simple.bridge.Shape;
-import com.patterns.structoral.bridge.simple.contract.Renderer;
+import com.patterns.structural.bridge.simple.contract.Renderer;
 
 public class Circle extends Shape {
 

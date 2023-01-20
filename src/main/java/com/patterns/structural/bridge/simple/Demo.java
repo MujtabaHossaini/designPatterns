@@ -1,8 +1,8 @@
-package com.patterns.structoral.bridge.simple;
+package com.patterns.structural.bridge.simple;
 
-import com.patterns.structoral.bridge.simple.bridge.Circle;
-import com.patterns.structoral.bridge.simple.service.RasterRenderer;
-import com.patterns.structoral.bridge.simple.service.VectorRenderer;
+import com.patterns.structural.bridge.simple.bridge.Circle;
+import com.patterns.structural.bridge.simple.service.RasterRenderer;
+import com.patterns.structural.bridge.simple.service.VectorRenderer;
 
 public class Demo {
 

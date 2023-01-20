@@ -1,6 +1,6 @@
-package com.patterns.structoral.bridge.guice.bridge;
+package com.patterns.structural.bridge.guice.bridge;
 
-import com.patterns.structoral.bridge.guice.contract.Renderer;
+import com.patterns.structural.bridge.guice.contract.Renderer;
 import lombok.AllArgsConstructor;
 
 @AllArgsConstructor
