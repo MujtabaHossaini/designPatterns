@@ -1,8 +1,8 @@
-package com.patterns.structoral.composite;
+package com.patterns.structoral.composite.graphicObject;
 
-import com.patterns.structoral.composite.model.Circle;
-import com.patterns.structoral.composite.model.GraphicObject;
-import com.patterns.structoral.composite.model.Square;
+import com.patterns.structoral.composite.graphicObject.model.Circle;
+import com.patterns.structoral.composite.graphicObject.model.GraphicObject;
+import com.patterns.structoral.composite.graphicObject.model.Square;
 
 public class Demo {
 

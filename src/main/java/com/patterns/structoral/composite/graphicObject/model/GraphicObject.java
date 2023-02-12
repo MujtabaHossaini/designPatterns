@@ -1,4 +1,4 @@
-package com.patterns.structoral.composite.model;
+package com.patterns.structoral.composite.graphicObject.model;
 
 import lombok.Data;
 
