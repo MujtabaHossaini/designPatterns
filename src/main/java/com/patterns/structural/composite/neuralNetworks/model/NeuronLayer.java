@@ -1,4 +1,4 @@
-package com.patterns.structoral.composite.neuralNetworks.model;
+package com.patterns.structural.composite.neuralNetworks.model;
 
 import java.util.ArrayList;
 
